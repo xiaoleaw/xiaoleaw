@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaoleaw
-- 👀 I’m interested in JiuXi
-- 🌱 I’m currently learning Loving
+- 👀 I’m interested in Java and JS
+- 🌱 I’m currently learning them👆
 - 💞️ I’m looking to collaborate on JiuXi_
 - 📫 mailto:xiaolexswl@outlook.com
 
